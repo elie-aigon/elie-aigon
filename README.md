@@ -1,6 +1,10 @@
 <h1 align="center">Hello there Elie</h1>
 <h3 align="center">A future passionate software developper</h3>
 
+- 🔭 I’m currently working on **Java**
+
+- 🌱 I’m currently learning **Unity**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
