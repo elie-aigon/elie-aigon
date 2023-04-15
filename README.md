@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👏, I'm Elie</h1>
+<h1 align="center">Hello there 👋, I'm Elie</h1>
 <h3 align="center">A future passionate software developper from Frane</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elie-aigon&label=Profile%20views&color=0e75b6&style=flat" alt="elie-aigon" /> </p>
