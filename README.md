@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elie-aigon&label=Profile%20views&color=0e75b6&style=flat" alt="elie-aigon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elie-aigon" alt="elie-aigon" /></a> </p>
-
 - 🔭 I’m currently working on **Java**
 
 - 🌱 I’m currently learning **Unity**
